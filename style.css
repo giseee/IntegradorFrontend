@@ -1,0 +1,27 @@
+/*header*/
+.logo{
+    padding:.5em;
+    width: 5em;   
+}
+.navbar-nav .disabled{
+    color:rgb(8, 80, 8);
+
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+nav div .navbar-nav a {
+    color: rgb(134, 134, 134);
+}
+
+footer {
+    font-size: 0.9rem;
+    background-color: #103a57;   
+}
+
+footer a {
+    text-decoration: none;
+    color: white
+}
